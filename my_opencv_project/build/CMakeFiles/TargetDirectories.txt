@@ -1,0 +1,3 @@
+/home/c-lara/Descargas/my_opencv_project/build/CMakeFiles/my_opencv_project.dir
+/home/c-lara/Descargas/my_opencv_project/build/CMakeFiles/edit_cache.dir
+/home/c-lara/Descargas/my_opencv_project/build/CMakeFiles/rebuild_cache.dir
