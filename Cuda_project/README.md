@@ -145,4 +145,3 @@ This example aims to **teach** how to integrate:
 - Add **argument parsing** for a robust CLI, plus a more extensive **Makefile** or `run.sh`.
 
 
-**Happy GPU Computing!**
